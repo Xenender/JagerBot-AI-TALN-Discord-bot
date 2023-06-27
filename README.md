@@ -1,7 +1,8 @@
 # JagerBot-IA-TALN-Discord-bot
 
 JägerBot est un chat-bot discord. Il a été développé en collaboration avec le LIRMM (Laboratoire d'informatique, de robotique et de microélectronique de Montpellier)
-Il s'agit d'un bot dont le but est de répondre à des questions simple.
+Il s'agit d'un bot dont le but est de répondre à des questions simple posées en **FRANCAIS**
+
 "un manchot peut il voler ?"
 "un chien peut il manger de la viande ?"
 
@@ -18,12 +19,19 @@ JägerBot va travailler avec une profondeur de 4, c'est à dire que pour chaque 
 
 ## Comment l'utiliser ?
 
--Créer un bot discord.
--L'inviter sur votre serveur.
--Télécharger le fichier zip du projet.
--Ouvrir le fichier jagerbot.py et modifier la variable "TOKEN" en mettant le token de votre bot.
--Modifier également la variable "PATH" en mettant le chemin absolu jusqu'au dossier contenant le programme jagerbot.py.
--Télécharger si besoin les bibliothèques python necessaires au fonctionnement du programme.
--Exécuter le fichier python "jagerbot.py".
--Le bot va se connecter sur le serveur, vous pouvez commencer à discuter, faites !help pour connaitre les commandes de base.
+    -Créer un bot discord.
+    
+    -L'inviter sur votre serveur.
+    
+    -Télécharger le fichier zip du projet.
+    
+    -Ouvrir le fichier jagerbot.py et modifier la variable "TOKEN" en mettant le token de votre bot.
+    
+    -Modifier également la variable "PATH" en mettant le chemin absolu jusqu'au dossier contenant le programme jagerbot.py.
+    
+    -Télécharger si besoin les bibliothèques python necessaires au fonctionnement du programme.
+
+    -Exécuter le fichier python "jagerbot.py".
+    
+    -Le bot va se connecter sur le serveur, vous pouvez commencer à discuter, faites !help pour connaitre les commandes de base.
 
