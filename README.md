@@ -1,37 +1,43 @@
 # JagerBot-IA-TALN-Discord-bot
 
-JägerBot est un chat-bot discord. Il a été développé en collaboration avec le LIRMM (Laboratoire d'informatique, de robotique et de microélectronique de Montpellier)
-Il s'agit d'un bot dont le but est de répondre à des questions simple posées en **FRANCAIS**
+JägerBot is a discord chatbot. It was developed in collaboration with the LIRMM (Computer Science, Robotics and Microelectronics Laboratory of Montpellier)
+This is a bot whose purpose is to answer simple questions asked in **FRENCH**
 
-"un manchot peut il voler ?"
-"un chien peut il manger de la viande ?"
+"Can a penguin fly?"
+"Can a dog eat meat?"
 
-vous pouvez également demander des explications sur la réponse qui a été donnée:
-"pourquoi un manchot peut il voler ?"
+you can also ask for an explanation of the answer that was given:
+"why can a penguin fly?"
 
-## Comment fonctionne t-il ?
+## How does it work ?
 
-JägerBot fonctionne grâce à la base de connaissance <a href="https://www.jeuxdemots.org/jdm-accueil.php">JeuxDeMots</a>.
-Pour résumer très simplement, JägerBot va essayer de comprendre la relation qui lie les mots de la question.
-Après avoir trouvé la ou les relations cherchés, JägerBot va trouver les mots clés de la phrase et effectuer une requete express à jeuxDeMots pour chaque mot clés,
-un traitement sera alors effectué pour rassembler toutes les relations existentes entre les mots clés, si la relation recherchée existe alors la question est considérée comme vraie.
-JägerBot va travailler avec une profondeur de 4, c'est à dire que pour chaque mots clés il va chercher les relations "générique" et "hypo" (et ainsi dessuite sur les nouveaux mots 4 fois) et effectuer à nouveau le travail pour trouver ou non la relation recherchée.
+JägerBot works thanks to the knowledge base <a href="https://www.jeuxdemots.org/jdm-accueil.php">JeuxDeMots</a>.
+To sum up very simply, JägerBot will try to understand the relationship between the words of the question.
+After finding the relationship(s) sought, JägerBot will find the keywords of the phrase and make an express query to jeuxDeMots for each keyword,
+a processing will then be carried out to gather all the existing relationships between the keywords, if the relationship sought exists then the question is considered true.
+JägerBot will work with a depth of 4, i.e. for each keyword it will look for the "generic" and "hypo" relations (and so on for the new words 4 times) and carry out the work again to find or not the desired relationship.
 
-## Comment l'utiliser ?
+## How to use it ?
 
-    -Créer un bot discord.
+     -Create a discord bot.
     
-    -L'inviter sur votre serveur.
+     -Invite him to your server.
     
-    -Télécharger le fichier zip du projet.
+     - Download the project zip file.
     
-    -Ouvrir le fichier jagerbot.py et modifier la variable "TOKEN" en mettant le token de votre bot.
+     -Open the jagerbot.py file and modify the "TOKEN" variable by putting the token of your bot.
     
-    -Modifier également la variable "PATH" en mettant le chemin absolu jusqu'au dossier contenant le programme jagerbot.py.
+     -Also modify the "PATH" variable by putting the absolute path to the folder containing the jagerbot.py program.
     
-    -Télécharger si besoin les bibliothèques python necessaires au fonctionnement du programme.
+     -Download if necessary the python libraries necessary for the operation of the program.
 
-    -Exécuter le fichier python "jagerbot.py".
+     -Run the python file "jagerbot.py".
     
-    -Le bot va se connecter sur le serveur, vous pouvez commencer à discuter, faites !help pour connaitre les commandes de base.
+     -The bot will connect to the server, you can start chatting, do !help to know the basic commands.
+
+## Screenshots
+
+<img src="/images/jagerbot1.png">
+<img src="/images/jagerbot2.png">
+<img src="/images/jagerbot3.png">
 
