@@ -1,0 +1,82 @@
+rt;0;est lié à|lié|relié|connecté|attaché|associé|en relation|en lien|enchaîné|correspondant
+rt;1;est similaire à|similaire|semblable|analogique|pareil|identique|équivalent|homologue
+rt;3;est un lieu du domaine de|lieu|domaine|endroit|emplacement|région|territoire|zone|secteur|milieu|dans
+rt;4;discours|parole|expression|communication|verbiage|langage|vocabulaire
+rt;5;synonyme|équivalent|paronyme|vocabulaire|mot similaire|terme semblable
+rt;6;générique|sorte|type|est un|est une|sont des|espèce|est elle un|est il un|sont elles des|sont ils des|variété|catégorie|est la
+rt;7;contraire|opposé|antithèse|inverse|opposition|à l'inverse|à l'opposé
+rt;9;possède|partie|compose|forme|fait partie de|comprend|composé|constitue|a des
+rt;10;inclu|inclue|inclus|intérieur|compris|inséré|contenu|englobé|entraîné|composé
+rt;11;expression|locution|formule|manière de dire|phrase|tour de parole|diction|énoncé
+rt;13;agent|pouvoir|peut|capable|opérateur|faculté|possibilité
+rt;14;patient|se faire|recevoir|subir|être soumis à|être sujet à
+rt;15;se trouve dans|trouve|découvrir|localiser|repérer|situer|débusquer|dénicher|se trouve|trouver
+rt;16;instrument|à l'aide de|outil|moyen|dispositif|accessoire|appareil
+rt;17;caractéristique|attribut|trait|qualité|propriété|particularité|aspect
+rt;18;lexical|lexicalement|linguistique|vocabulary|terminologie|terminologique
+rt;19;lemme|forme canonique|forme de base|forme normalisée
+rt;20;magnification|exagération|hyperbole|amplification|agrandissement|surdimensionnement
+rt;21;antimagnification|atténuation|minimisation|sous-estimation|diminution
+rt;22;champ lexical|lexicalement|lexical|fait partie du champ lexical|appartient au champ lexical|domaine lexical|vocabulaire
+rt;23;caractérisque|trait distinctif|aspect spécifique|particularité
+rt;24;peut|pouvoir|être en mesure de|avoir la capacité de|avoir la possibilité de|a la capacité de
+rt;25;instrument|à l'aide de|outil|moyen|dispositif|accessoire|appareil
+rt;26;patient|se faire|recevoir|subir|être soumis à|être sujet à
+rt;27;lieu|domaine|endroit|emplacement|région|territoire|zone|secteur|milieu|dans
+rt;28;trouver|trouve|découvrir|localiser|repérer|situer|débusquer|dénicher
+rt;30;faire dans|se situer dans|se trouver dans|se trouve
+rt;31;faire dans|se situer dans|se trouver dans|se trouve
+rt;32;sentiment|emotion|ressentir|ressenti|émotion|perception|sensation
+rt;35;sens|signification|interprétation|acception|importance|portée
+rt;36;information potentielle|donnée possible|renseignement envisageable
+rt;37;verbe|action|action verbale
+rt;40;verbe|action|action verbale
+rt;41;conséquence|alors|résultat|effet|aboutissement|issue
+rt;42;conséquence|alors|résultat|effet|aboutissement|issue
+rt;45;NULL
+rt;46;NULL
+rt;50;est composé de|composé|matière|substance|élément|matériau|constitution
+rt;51;est composé de|composé|matière|substance|élément|matériau|constitution
+rt;52;ensuite|suit|après|consécutivement|par la suite|ultérieurement
+rt;53;produire|construire|créer|fabriquer|générer|engendrer
+rt;54;résultat de|produit de|conséquence de|issue de|résultat issu de|conséquence directe de|alors
+rt;55;contre|s'oppose|luter|combattre|résister|s'opposer à|s'opposer contre
+rt;56;inverse opposition|renverse|oppose|lute|combat|résiste|s'oppose|s'oppose contre
+rt;59;masculin|mâle|viril|homme
+rt;60;féminin|femme|féminine|femme de|du sexe féminin
+rt;66;NULL
+rt;70;acteur|effectue|joueur|intervenant|participant|agent|personnage
+rt;71;variante|orthographe|forme alternative|variation|différentes orthographes
+rt;72;.....
+rt;73;plus petit|plus bas|inférieur|moindre|minime|petit en taille
+rt;74;plus grand|plus gros|supérieur|plus élevé|plus important|grand en taille
+rt;78;co-hyponyme|même classe|synonyme en contexte|terme cohéyponyme|mot de même catégorie
+rt;102;se nourrit de|peut manger|mange|consomme|alimente|se nourrir avec|a la capacité de manger de
+rt;106;est de couleur|de teinte|de nuance|de tonalité|de coloration
+rt;107;cible|vise|vise à|vocation à|but|objectif|destination|ciblé
+rt;109;précède|avant|antérieur|préalable|precede|antécédent
+rt;115;sentiment|emotion|ressentir|ressenti|émotion|perception|sensation
+rt;119;but|objectif|finalité|objectivation|objectivation|visée
+rt;121;possède|a des|détient|est en possession de|dispose de|possédé par|a un|a une|peut avoir
+rt;122;est possédé|tenu|propriété de|appartient à|sous la possession de
+rt;126;incompatible|en contradiction|en conflit|contraire|antagoniste|opposé
+rt;128;NULL
+rt;130;instance|exemplaire|exemple|cas|occurrence|illustration|représentation
+rt;137;NULL
+rt;140;NULL
+rt;149;complément d'agent|complément d'objet|complément de lieu|complément de temps|complément circonstanciel
+rt;150;bénéficiaire|gagnant|receveur|destinataire|profiteur|avantageux
+rt;155;peut utiliser|utilise|emploi|utilisation|manipulation|utilise régulièrement|se sert de
+rt;156;est utilité par|est employé par|est utilisé par|est manipulé par|est régulièrement utilisé par
+rt;161;homophone|sonorité|prononciation similaire|mot de même son|homonyme de son
+rt;164;associé|lié|relatif|en relation|en lien|connexe|correspondant
+rt;165;associé|lié|relatif|en relation|en lien|connexe|correspondant
+rt;170;singulier|individuel|unique|solitaire|isolé|seul|distinct
+rt;333;traduction|translation
+rt;444;NULL
+rt;555;NULL
+rt;666;NULL
+rt;777;NULL
+rt;999;NULL
+rt;1002;NULL
+rt;2000;NULL
