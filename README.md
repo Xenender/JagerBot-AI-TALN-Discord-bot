@@ -23,7 +23,7 @@ JägerBot will work with a depth of 4, i.e. for each keyword it will look for th
     
      -Invite him to your server.
     
-     - Download the project zip file.
+     -Download the project zip file.
     
      -Open the jagerbot.py file and modify the "TOKEN" variable by putting the token of your bot.
     
