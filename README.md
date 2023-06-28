@@ -1,4 +1,4 @@
-# JagerBot-IA-TALN-Discord-bot
+# JagerBot-AI-TALN-Discord-bot
 
 JägerBot is a discord chatbot. It was developed in collaboration with the LIRMM (Computer Science, Robotics and Microelectronics Laboratory of Montpellier)
 This is a bot whose purpose is to answer simple questions asked in **FRENCH**
